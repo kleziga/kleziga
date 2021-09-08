@@ -1,0 +1,269 @@
+
+#home-boday{
+    font-family: "Audiowide", sans-serif;
+    background-color: #27445C;
+}
+
+
+#boday{
+    font-family: "Audiowide", sans-serif;
+    background-color: #27445C;
+}
+
+.container1, .home-container1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#space1, #home-space1{
+    padding-bottom: 20px;
+}
+
+#head1, #home-head1{
+    margin-left: 50px;
+    background-color: black;
+    border: solid black 2px;
+    text-align: center;
+}
+
+#headtxt, #home-headtxt{
+    color:white;
+}
+
+.btn3{
+    margin-left: 280px;
+    color: black;
+    background-color: none;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn3:hover {
+    background-color: aquamarine;
+    color: black;
+  }
+
+.bt3:active {
+    transform: translate(-50%, 3px);
+    box-shadow: 0 1rem 2rem (0,0,0,0.15);
+}
+
+#space2{
+    padding-bottom: 20px;
+}
+
+.container2, .container3{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.container3 h2{
+    
+    text-align: center;
+    align-items: center;
+    color:white;
+    background-color: black;
+    width: 100px;
+    height: 80px;
+    padding-top: 20px;
+    padding-bottom: 55px;
+}
+
+
+
+
+#space3{
+    
+    padding-left: 400px;
+}
+
+#space4{
+    
+    padding-left: 300px
+}
+
+#space5{
+    
+    padding-right: 950px;
+}
+
+#space6{
+    
+    padding-left: 450px;
+}
+
+#space7{
+    
+    padding-left: 400px
+}
+
+#space8{
+    
+    padding-right: 500px;
+}
+
+.container4{
+    
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.container4 h2{
+    text-align: center;
+}
+
+#space9{
+    
+    padding-left: 620px;
+}
+
+#space10{
+    
+    padding-right: 650px;
+}
+
+.container5{
+    
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.container5 h2{
+   
+    text-align: center;
+    align-items: center;
+    color:white;
+    background-color: purple;
+    width: 100px;
+    height: 80px;
+    padding-top: 20px;
+    padding-bottom: 55px;
+}
+
+#space11{
+    
+    padding-left: 700px;
+}
+
+#space12{
+    
+    padding-right: 650px;
+}
+
+.container6{
+    height: 50px;
+    
+}
+
+.container7{
+    display: flex;
+    flex-direction: row;
+}
+
+/* Player turn color switch*/
+.container8{
+    border-left: solid black 15px;
+    background-color: #0392cf;
+}
+
+#space13{
+    
+    padding-right: 615px;
+}
+
+.container9{
+    height: 50px;
+    
+}
+
+.container10{
+
+    text-align: center;
+}
+/* Style buttons */
+.btn {
+    
+    background-color: aquamarine; /* Blue background */
+    border: none; /* Remove borders */
+    padding: 12px 16px; /* Some padding */
+    font-size: 30px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+
+  /* Darker background on mouse-over */
+.btn2:hover {
+    background-color: aquamarine;
+    color: black;
+  }
+
+.btn2{
+    color: white;
+    background-color: brown;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.bt2:active {
+    transform: translate(-50%, 3px);
+    box-shadow: 0 1rem 2rem (0,0,0,0.15);
+}
+
+
+
+.preContain{
+    background-color: #BFD7ED;
+    border: solid black 2px;
+}
+
+.home-container10{
+    text-align: center;
+}
+
+.home-btn2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 200px;
+    color: black;
+    background-color: #693C5E;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.home-btn2:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.home-btn2:active {
+    transform: translate(-50%, 3px);
+    box-shadow: 0 1rem 2rem (0,0,0,0.15);
+}
+
+.home-return{  
+        
+    margin-left: 500px;
+    color: black;
+    background-color: none;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.home-return:hover {
+    background-color: aquamarine;
+    color: black;
+  }
+
+ #home-img{
+    height: 20px;
+    padding-bottom: 3px;
+ } 
+
+ .foot{
+    margin-top: 200px;
+ }
+
+
+
+
